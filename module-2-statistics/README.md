@@ -10,6 +10,6 @@ Within this module, we'll be covering some of the basic concepts that you would 
 
 ## Lecture Recordings
 
-* Day 1 Lecture (January 11th, 2021): TBA
-* Day 2 Lecture (January 13th, 2021): TBA
-* Day 3 Lecture (January 15th, 2021): TBA
+* Day 1 Lecture (January 11th, 2021): https://ucsd.zoom.us/rec/share/G0Tec-MtgDowv9vckm0XNJAZ8vFYKpOBWL96gzO27sJgfXnY5fB8dtq1mLsa-HwC.JqxhuJje3zWxzzUO
+* Day 2 Lecture (January 13th, 2021): https://ucsd.zoom.us/rec/share/LosA_gH5sTiGblYEzaBW7SGA3J50DDlCOLu91IxkTsH8ft-7UcVsRkYeCrdToqFD.NiAlN0NGMCJq29xR
+* Day 3 Lecture (January 15th, 2021): https://ucsd.zoom.us/rec/share/MKa4pXstynKHVXBg2UM3WM8cTUumsPV5Xa8jw1sgLBqFQrQJUtX1DSAIAIW8gt5U.Vit9B_lIK86LKjUM
