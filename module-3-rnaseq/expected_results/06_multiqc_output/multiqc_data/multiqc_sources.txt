@@ -1,0 +1,6 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	yeast	/Users/mragsac/Dropbox/School/WI21_Classes/cmm262-2021/module-3-rnaseq/results/05_featureCounts/counts.txt.summary
+STAR	SummaryLog	yeast	/Users/mragsac/Dropbox/School/WI21_Classes/cmm262-2021/module-3-rnaseq/results/02_STAR/yeastLog.final.out
+FastQC	all_sections	yeast	/Users/mragsac/Dropbox/School/WI21_Classes/cmm262-2021/module-3-rnaseq/results/04_fastqc_output_alignments/yeastAligned.out.sorted_fastqc.zip
+FastQC	all_sections	yeast_R2	/Users/mragsac/Dropbox/School/WI21_Classes/cmm262-2021/module-3-rnaseq/results/01_fastqc_output/yeast_R2_fastqc.zip
+FastQC	all_sections	yeast_R1	/Users/mragsac/Dropbox/School/WI21_Classes/cmm262-2021/module-3-rnaseq/results/01_fastqc_output/yeast_R1_fastqc.zip
