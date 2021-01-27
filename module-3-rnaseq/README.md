@@ -9,4 +9,4 @@ Within this module, we will go over the molecular and analytical methods behind 
 ## Lecture Recordings
 
 * **Day 1 Lecture (January 20th, 2021):** https://ucsd.zoom.us/rec/share/T5f06ZtHxTMjB51GtlRpV-6Z7tyouGKappsxYR90ggiDx4TeVjbFRtV4Db0JZFSL.lphvpFfiIaVIgeCn
-* **Day 2 Lecture (January 22nd, 2021):** TBA
+* **Day 2 Lecture (January 22nd, 2021):** https://ucsd.zoom.us/rec/share/_wOKb-LzNqIT4XpMILiuMN46584exL_5jU4RQO4va2TvYnPZp8Ys_K-dMkAPSrnr.2az4fkJf-FEQ0nSV
