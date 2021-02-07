@@ -1,0 +1,15 @@
+09:05:12 From Michelle Franc Ragsac To Everyone : Please note that the only things that aren’t on the GitHub are the Module surveys! I’ll be uploading the Homework 1 PDF later today :-)
+09:06:59 From Clarence Mah To Everyone : Thanks Michelle! one more thing, grades for homework 1 will be released on Friday. Thanks everyone!
+09:07:28 From Michelle Franc Ragsac To Everyone : Additional Programming Practice: https://github.com/biom262/cmm262-2021/tree/main/ta-materials
+09:11:36 From Michelle Franc Ragsac To Clarence Mah(Privately) : After the presentation, a few students want me to go through how to upload the GitHub content to JupyterHub
+09:19:34 From Michelle Franc Ragsac To Everyone : If you have general questions about using Seurat, feel free to let me know in the #module-4-scrnaseq channel! I’ve used Seurat for my own research :-)
+09:23:53 From Michelle Franc Ragsac To Everyone : Seurat v4 came out a few days ago! https://satijalab.org/seurat/
+09:25:55 From Kellen Cavagnero To Everyone : For those interested in doing more compute heavy work, do you recommend TSCC or cloud computing?
+09:26:56 From Clarence Mah To Everyone : https://www.sdsc.edu/support/user_guides/tscc.html
+09:32:06 From Alicia Van Enoo To Everyone : I’ll just type, it sorry!
+09:32:34 From Alicia Van Enoo To Everyone : Can we run the jupyter notebooks on our own computers? Outside of the data hub?
+09:33:16 From Alicia Van Enoo To Everyone : Cool, thanks!
+09:34:56 From Clarence Mah To Everyone : https://nteract.io/
+09:36:21 From Michelle Franc Ragsac To Everyone : Python Tutor Resource: http://pythontutor.com/
+09:36:48 From Michelle Franc Ragsac To Everyone : Within this notebook, I go over what something called “code tracing” is, which is what Python Tutor is doing: https://github.com/biom262/cmm262-2021/blob/main/ta-materials/02-01-2021_python-practice/Learning%20New%20Programming%20Constructs.ipynb
+09:39:25 From Pratibha Jagannatha To Everyone : In case anyone is interested in trying out python tutor: http://pythontutor.com/
