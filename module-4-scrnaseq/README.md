@@ -6,4 +6,4 @@ This module covers single-cell RNA sequencing technologies and bioinformatics an
 ## Lecture Recordings
 
 * **Day 1 Lecture (January 25th, 2021):** https://ucsd.zoom.us/rec/share/W6YYsyFMdwpjR2sMUakIj4SNSEJWz6mYsZWJIqkYg76hS9uKII-rjJEgu2SLnYSW.9KZYh-SmN5ROzjxB
-* **Day 2 Lecture (January 27nd, 2021):** TBA
+* **Day 2 Lecture (January 27nd, 2021):** https://ucsd.zoom.us/rec/share/CV0CJ2qoIgN64JhhxuQtQouwtNrrjApRB6u3YESSYm-SDavxLjVgS9KISB6x2W0N.hypMTMe64Ueq_Pwu
