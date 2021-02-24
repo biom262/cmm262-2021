@@ -140,3 +140,8 @@ cython_debug/
 # Notebook checkpoints
 .ipynb_checkpoints/*
 */.ipynb_checkpoints
+
+# Mac File System 
+.DS_Store
+*/.DS_Store
+
