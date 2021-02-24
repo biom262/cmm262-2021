@@ -21,8 +21,8 @@ You can find the Course Syllabus at the following location: https://github.com/b
 | 4    | January 29, 2021  | **Module 5:** Spatial Transcriptomics                   | Noorsher Ahmed                     | [Module 5](https://github.com/biom262/cmm262-2021/tree/main/module-5-spatialtx)   | None        |
 | 5    | February 1, 2021  | <i>Content Review Week</i>                              | TAs                                | [Midterm Review](https://github.com/biom262/cmm262-2021/tree/main/midterm-review) | **Midterm** |
 | 6    | February 8, 2021  | **Module 6:** Chromatin and ChIP-Sequencing (ChIP-seq)  | Alon Goren                         | [Module 6](https://github.com/biom262/cmm262-2021/tree/main/module-6-chipseq)     | TBA         |
-| 7    | February 17, 2021 | **Module 7:** Network Biology                           | Hannah Carter                      | TBA   | TBA                 |
-| 8    | February 22, 2021 | **Module 8:** Genome-Wide Association Studies (GWAS)    | Graham McVicker                    | TBA   | TBA                 |
+| 7    | February 17, 2021 | **Module 7:** Network Biology                           | Hannah Carter                      | [Module 7](https://github.com/biom262/cmm262-2021/tree/main/module-7-networks)   | TBA                 |
+| 8    | February 22, 2021 | **Module 8:** Genome-Wide Association Studies (GWAS)    | Graham McVicker                    | [Module 8](https://github.com/biom262/cmm262-2021/tree/main/module-8-gwas)   | TBA                 |
 | 9    | March 1, 2021     | **Module 9:** Variant Calling                           | Olivier Harismendy                 | TBA   | TBA                 |
 | 10   | March 8, 2021     | **Module 10:** Population Genetics                      | Nicholas Schork<br>Ondrej Libiger  | TBA   | TBA                 |
 | -    | March 15, 2021    | <i>Finals Week</i>                                      | -                                  | TBA   | **Take-Home Final** |
