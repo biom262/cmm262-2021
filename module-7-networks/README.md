@@ -1,7 +1,7 @@
 # Networks
 This module covers the basics to Network analysis using the R programming language and the Cytoscape software. It is taught by Professor Hannah Carter, an Assistant Professor in the UCSD School of Medicine (https://medschool.ucsd.edu/som/medicine/divisions/med-genetics/research/carter-lab/Pages/default.aspx).
 
-> *Presentation Link:* TBA
+> *Presentation Link:* https://drive.google.com/drive/folders/1vOpCi1dvRX223rWzevrlGSKs6IIwoq4F?usp=sharing
 
 ## Lecture Recordings
 
