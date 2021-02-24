@@ -5,6 +5,6 @@ This module covers the background and analysis pipeline behind looking at ChIP-s
 
 ## Lecture Recordings
 
-* **Day 1 Lecture (February 8th, 2021):** TBA
-* **Day 2 Lecture (February 10th, 2021):** TBA
-* **Day 3 Lecture (February 12th, 2021):** TBA
+* **Day 1 Lecture (February 8th, 2021):** https://ucsd.zoom.us/rec/share/jqG_Ls6wHpaFxSom249DktRKbnmLYtmdrLIoLTjCjk71rLvhlUX5qjBiI-IEIMj6.OXSOMLZvwSCMOlqu
+* **Day 2 Lecture (February 10th, 2021):** https://ucsd.zoom.us/rec/share/HlmaJdmDiBF1NwZG-OignvZCSsdyzVz5cOOuByBsHiPRK3CsXI06rIOPSWNY5JgT.OkO4RNnl-_rjS7SF
+* **Day 3 Lecture (February 12th, 2021):** https://ucsd.zoom.us/rec/share/agATrd7xizo9CTppUdzChMW2_Q5UvW35IF0Crl4R9DwV8rpPukQMaT4-VH0gOB-a.8yrvJ-iEK-Rykl9R
