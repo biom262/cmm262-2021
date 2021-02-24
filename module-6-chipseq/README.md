@@ -1,7 +1,7 @@
 # ChIP-sequencing
 This module covers the background and analysis pipeline behind looking at ChIP-sequencing data: a technique that combines chromatin immunoprecipitation (ChIP) with massively parallel DNA sequencing to identify the binding sites of DNA-associated proteins. It is taught by Professor Alon Goren, an Assistant Professor in the UCSD School of Medicine (https://goren-lab.github.io/).
 
-> *Presentation Link:* TBA
+> *Presentation Link:* All of the presentation materials can be found in the `resources/` directory for this module
 
 ## Lecture Recordings
 
