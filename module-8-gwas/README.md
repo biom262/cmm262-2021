@@ -7,4 +7,4 @@ This module covers the basics of performing Genome-Wide Association Studies, oth
 
 * **Day 1 Lecture (February 22nd, 2021):** https://ucsd.zoom.us/rec/share/vgADBxsu37Ty9Sq4zTvUJWGtjTCbdqgDPa4YmfK_mwHYCxjiEQNyJflOY8PHHoSq.AUlSUH6B9XRV0kSV
 * **Day 2 Lecture (February 24th, 2021):** https://ucsd.zoom.us/rec/share/Ud6vef_ryyvtnn0iiSz4BSjgHuFa081kqaOqZZ0vevXBb5Q6aXqqL0gahHymzMLj.gqy_h2Ln9Kzgg_fZ
-* **Day 3 Lecture (February 26th, 2021):** *TBA*
+* **Day 3 Lecture (February 26th, 2021):** https://ucsd.zoom.us/rec/share/-14V6UNNQ-c6bHpN06IBLvd0RMjnx5f4mGyD44X_wFUX5MpD6BPT2uFwgTUhlnzb.7Nnvxpibcse1_a2p
